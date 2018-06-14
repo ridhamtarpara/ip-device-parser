@@ -12,15 +12,10 @@
   },
   "keywords": [
     "ip",
-    "device",
-    "ip",
-    "parser",
-    "device",
-    "info",
-    "device",
-    "parser",
-    "ip",
-    "info"
+    "client ip",
+    "ip parser",
+    "device info",
+    "express middleware"
   ],
   "author": "Ridham Tarpara <ridham.tarpara@gmail.com>",
   "license": "MIT",
@@ -31,6 +26,9 @@
   "devDependencies": {
     "eslint-config-airbnb-base": "^12.1.0",
     "eslint-plugin-import": "^2.12.0"
+  },
+  "engines": {
+    "node": ">= 4.4.0"
   },
   "dependencies": {
     "ipaddr.js": "^1.7.0",
