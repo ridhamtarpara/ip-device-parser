@@ -1,0 +1,39 @@
+{
+  "name": "ip-device-parser",
+  "version": "1.0.1",
+  "description": "Express middleware to parse ip address and device information from request",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ridhamtarpara/ip-device-parser.git"
+  },
+  "keywords": [
+    "ip",
+    "device",
+    "ip",
+    "parser",
+    "device",
+    "info",
+    "device",
+    "parser",
+    "ip",
+    "info"
+  ],
+  "author": "Ridham Tarpara <ridham.tarpara@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ridhamtarpara/ip-device-parser/issues"
+  },
+  "homepage": "https://github.com/ridhamtarpara/ip-device-parser#readme",
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.12.0"
+  },
+  "dependencies": {
+    "ipaddr.js": "^1.7.0",
+    "useragent": "^2.3.0"
+  }
+}
