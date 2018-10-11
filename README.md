@@ -14,10 +14,10 @@ $ npm install ip-device-parser
 
 ```js
 const express = require('express');
-const cookieParser = require('ip-device-parser');
+const ipAndDeviceParser = require('ip-device-parser');
 
 const app = express();
-app.use(ip-device-parser());
+app.use(ipAndDeviceParser());
 ```
 
 You can fetch ip and device infor form `req.clientInfo` where req is express request object
