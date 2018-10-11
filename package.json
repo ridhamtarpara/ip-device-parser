@@ -1,6 +1,6 @@
 {
   "name": "ip-device-parser",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Express middleware to parse ip address and device information from request",
   "main": "index.js",
   "scripts": {
